@@ -1,4 +1,19 @@
 {
   "ad_code": "<script type='text/javascript' src='https://your-ad-network.com/ad.js'></script>",
   "meta_tag": "<meta name='6a97888e-site-verification' content='12f499973ccd4ec47a88c690c11399c3'>"
+  "footer_script": "<script type="application/javascript">
+    var ad_idzone = "5619474",
+    ad_popup_fallback = false,
+    ad_popup_force = false,
+    ad_chrome_enabled = true,
+    ad_new_tab = false,
+    ad_frequency_period = 720,
+    ad_frequency_count = 1,
+    ad_trigger_method = 3,
+    ad_trigger_delay = 0,
+    ad_capping_enabled = true; 
+</script>
+<script type="application/javascript" src="https://a.pemsrv.com/popunder1000.js"></script>"
 }
+
+
