@@ -1,19 +1,7 @@
 {
   "ad_code": "<script type='text/javascript' src='https://your-ad-network.com/ad.js'></script>",
   "meta_tag": "<meta name='6a97888e-site-verification' content='12f499973ccd4ec47a88c690c11399c3'>"
-  "footer_script": "<script type="application/javascript">
-    var ad_idzone = "5619474",
-    ad_popup_fallback = false,
-    ad_popup_force = false,
-    ad_chrome_enabled = true,
-    ad_new_tab = false,
-    ad_frequency_period = 720,
-    ad_frequency_count = 1,
-    ad_trigger_method = 3,
-    ad_trigger_delay = 0,
-    ad_capping_enabled = true; 
-</script>
-<script type="application/javascript" src="https://a.pemsrv.com/popunder1000.js"></script>"
+"footer_script": "<script type=\"application/javascript\">\n    var ad_idzone = \"5619474\",\n    ad_popup_fallback = false,\n    ad_popup_force = false,\n    ad_chrome_enabled = true,\n    ad_new_tab = false,\n    ad_frequency_period = 720,\n    ad_frequency_count = 1,\n    ad_trigger_method = 3,\n    ad_trigger_delay = 0,\n    ad_capping_enabled = true;\n</script>\n<script type=\"application/javascript\" src=\"https://a.pemsrv.com/popunder1000.js\"></script>"
 }
 
 
